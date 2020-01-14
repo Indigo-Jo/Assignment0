@@ -1,0 +1,7 @@
+C:\Users\Joseph Salib\Documents\VISUAL STUDIO PROJECTS\Home work A (Variables, Methods, References)\obj\Debug\Home work A (Variables, Methods, References).csprojAssemblyReference.cache
+C:\Users\Joseph Salib\OneDrive\CODING PROJECTS\Home work A (Variables, Methods, References)\bin\Debug\Home work A (Variables, Methods, References).exe.config
+C:\Users\Joseph Salib\OneDrive\CODING PROJECTS\Home work A (Variables, Methods, References)\bin\Debug\Home work A (Variables, Methods, References).exe
+C:\Users\Joseph Salib\OneDrive\CODING PROJECTS\Home work A (Variables, Methods, References)\bin\Debug\Home work A (Variables, Methods, References).pdb
+C:\Users\Joseph Salib\OneDrive\CODING PROJECTS\Home work A (Variables, Methods, References)\obj\Debug\Home work A (Variables, Methods, References).csprojAssemblyReference.cache
+C:\Users\Joseph Salib\OneDrive\CODING PROJECTS\Home work A (Variables, Methods, References)\obj\Debug\Home work A (Variables, Methods, References).exe
+C:\Users\Joseph Salib\OneDrive\CODING PROJECTS\Home work A (Variables, Methods, References)\obj\Debug\Home work A (Variables, Methods, References).pdb
